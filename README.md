@@ -2,7 +2,7 @@
 script for esx roleplay gta v
  developed by : Fares B Hamed
 
-هاي البرمجة تعملك منطقة حمرا في الخريطة مستمدة من لعبة ارما 3  حياة التس وبصير اللاعبين الي بقاتلو فيها يعد عندهم مصاري ادعمني من اجل سكربتات جديدة 
+هاي البرمجة تعملك منطقة حمرا في الخريطة مستمدة من لعبة ارما 3  حياة التس وبصير اللاعبين الي بقاتلو فيها يعد عندهم مصاري 
 
 this is not offical esx script its script written by me Fares B Hamed
 
