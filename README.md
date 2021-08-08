@@ -6,7 +6,7 @@ script for esx roleplay gta v
 
 this is not official esx script its script written by me Fares B Hamed
 
-when you use the command it will start red circle on map and people can join fight without roleplaying its like even and they get money when they are in the zone ..
+when you use the command it will start red circle on map and people can join fight without roleplaying its like event and they get money when they are in the zone ..
 
 idea came from arma 3 altislife servers
 
