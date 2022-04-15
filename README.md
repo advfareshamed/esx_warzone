@@ -11,4 +11,3 @@ when you use the command it will start red circle on map and people can join fig
 idea came from arma 3 altislife servers
 
 
-buy me a coffee for more scripts :D : https://www.buymeacoffee.com/aboalabed
